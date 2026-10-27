@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tally_background">#FF0A0A0D</color>
+    <color name="tally_icon_background">#FF14141B</color>
+    <color name="tally_red">#FFFF3B30</color>
+</resources>

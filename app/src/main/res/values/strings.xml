@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tally</string>
+    <string name="listener_label">Tally unread counter</string>
+    <string name="widget_name">Tally unread counts</string>
+    <string name="widget_description">Unread counts for every app, kept even after you clear the notification panel.</string>
+    <string name="widget_all_caught_up">All caught up</string>
+    <string name="widget_clear_all">Clear all counts</string>
+</resources>

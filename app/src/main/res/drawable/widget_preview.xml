@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Static preview shown in the widget picker. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="250dp"
+    android:height="150dp"
+    android:viewportWidth="250"
+    android:viewportHeight="150">
+
+    <!-- Card -->
+    <path
+        android:fillColor="#FF111116"
+        android:pathData="M24,0h202a24,24 0,0 1,24 24v102a24,24 0,0 1,-24 24h-202a24,24 0,0 1,-24 -24v-102a24,24 0,0 1,24 -24z" />
+
+    <!-- Title bar -->
+    <path
+        android:fillColor="#FFF2F2F5"
+        android:pathData="M16,16h40a4,4 0,0 1,4 4v4a4,4 0,0 1,-4 4h-40a4,4 0,0 1,-4 -4v-4a4,4 0,0 1,4 -4z" />
+    <path
+        android:fillColor="#FF26262F"
+        android:pathData="M220,22m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+
+    <!-- App 1 -->
+    <path
+        android:fillColor="#FF25D366"
+        android:pathData="M30,52h40a12,12 0,0 1,12 12v40a12,12 0,0 1,-12 12h-40a12,12 0,0 1,-12 -12v-40a12,12 0,0 1,12 -12z" />
+    <path
+        android:fillColor="#FFFF3B30"
+        android:pathData="M72,44h12a10,10 0,0 1,10 10v0a10,10 0,0 1,-10 10h-12a10,10 0,0 1,-10 -10v0a10,10 0,0 1,10 -10z" />
+
+    <!-- App 2 -->
+    <path
+        android:fillColor="#FF2AABEE"
+        android:pathData="M110,52h40a12,12 0,0 1,12 12v40a12,12 0,0 1,-12 12h-40a12,12 0,0 1,-12 -12v-40a12,12 0,0 1,12 -12z" />
+    <path
+        android:fillColor="#FFFF3B30"
+        android:pathData="M154,44h6a10,10 0,0 1,10 10v0a10,10 0,0 1,-10 10h-6a10,10 0,0 1,-10 -10v0a10,10 0,0 1,10 -10z" />
+
+    <!-- App 3 -->
+    <path
+        android:fillColor="#FFEA4335"
+        android:pathData="M190,52h30a12,12 0,0 1,12 12v40a12,12 0,0 1,-12 12h-30a12,12 0,0 1,-12 -12v-40a12,12 0,0 1,12 -12z" />
+    <path
+        android:fillColor="#FFFF3B30"
+        android:pathData="M226,44h2a10,10 0,0 1,10 10v0a10,10 0,0 1,-10 10h-2a10,10 0,0 1,-10 -10v0a10,10 0,0 1,10 -10z" />
+</vector>
